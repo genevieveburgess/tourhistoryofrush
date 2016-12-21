@@ -1,0 +1,66 @@
+html, body {
+	margin:0px;
+	font-family: 'Reem Kufi', sans-serif;
+}
+.full{
+	
+	height:100%;
+	background-size:cover;
+	background-color:black;
+	
+}
+.page-header {
+	padding:20px;
+	color:white;
+	font-size:30px;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+
+	
+}
+
+#sidebar{
+	float:left;
+	
+}
+
+.anchor { padding-top:90px; color:white; }
+
+#sticky{
+	position:fixed;
+	background-color:black;
+	width: 240px;
+	padding-left:15px;
+	padding-top:60px;
+	height:100%;
+	border-right: solid 1px white;
+	bottom:0;
+	
+	
+}
+.textbox{
+	background-color:white;
+	border:#9E1E08 solid 2px;
+	margin:20px;
+	padding:20px;
+	box-shadow: 0 4px 8px 0 gray, 0 6px 20px 0 gray;
+}
+
+#content{
+	/*position:fixed;*/
+	margin-left:240px;
+	padding-top:60px; bottom:0;
+	background-color:black;
+}
+
+
+h1{
+	margin:0px;
+	color:white;
+	/*padding:20px;*/
+}
+/*head {
+
+background-color:black;
+
+}	*/
